@@ -1,0 +1,12 @@
+
+#Task:
+Write a simple function that checks whether a given string is a **palindrome**.  
+
+##Definition:
+A palindrome is a word that reads the same backward as forward
+
+For example:  
+- "racecar" and "madam" is a palindrome.  
+- "Hello" and "World" is not a palindrome.  
+
+The function should return True if the string is a palindrome and False otherwise.

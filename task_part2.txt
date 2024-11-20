@@ -1,0 +1,14 @@
+
+#Task:
+Extend the task with advanced version allowing phrases or sequence.
+
+##Definition:
+A palindrome is a string that reads the same backward as forward when:  
+1. Non-alphabetic characters are ignored.  
+2. Capitalization is normalized (treated as lowercase).  
+
+For example:  
+- "A man, a plan, a canal: Panama" is a palindrome.  
+- "Hello, World!" is not a palindrome.  
+
+The function should return `True` if the string is a palindrome and `False` otherwise.
